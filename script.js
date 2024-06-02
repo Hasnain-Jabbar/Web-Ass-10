@@ -1,4 +1,3 @@
-// node script.js
 // Loop Exersise:
 
 //1. Write a js program to print all natural numbers from 1 to n. - using while loop
